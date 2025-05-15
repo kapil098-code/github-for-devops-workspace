@@ -1,19 +1,19 @@
  git status
-  519  git init
-  520  git add testing.py
-  521  git status
-  522  clear
-  523  ls
-  524  git status
-  525  git rm --cached
-  526  git rm --cached testing.py
-  527  clear
-  528  git status
-  529  git add .
-  530  git status
-  531  clear
-  532  git commmit -m "added testing files"
-  533  clear
+   git init
+    git add testing.py
+   git status
+    clear
+    ls
+    git status
+   git rm --cached
+ git rm --cached testing.py
+   clear
+   git status
+   git add .
+    git status
+  clear
+  git commmit -m "added testing files"
+    clear
   534  git commit -m "added testing files"
   535  git status 
   536  rm testing.py
@@ -30,4 +30,4 @@
   547  git status
   548  git add testing.py
   549  git status
-  550  git restore testing.py
+  550  git restore testing.py 
