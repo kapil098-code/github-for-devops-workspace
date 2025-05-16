@@ -32,49 +32,8 @@
   549  git status
   550  git restore testing.py 
 
-git remote add origin https://github.com/kapil098-code/github-for-devops-workspace.git
-    2  git remote -v
-    3  git remote set-url https//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@github.com/kapil098-code/github-for-devops-workspace.git
-    4  clear
-    5  git romeote -v
-    6  git remote -v
-    7  git remote  set-url origin https://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@github.com/kapil098-code/github-for-devops-workspace.git
-    8  git remote -v
-    9  git push origin master
-   10  git remote set-url origin https://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@github.com/kapil098-code/github-for-devops-workspace.git
-   11  git push origin master
-   12  git remote add origin https://github.com/kapil098-code/github-for-devops-workspace.git
-   13  clear
-   14  git push origin master
-   15  clear
-   16  git remote add origin https://github.com/kapil098-code/github-for-devops-workspace.git
-   17  git remote -v
-   18  git push origin master
-   19  git status
-   20  git remote add origin https://github.com/kapil098-code/github-for-devops-workspace.git
-   21  git remote -
-   22  git remote remove testing.py
-   23  clear
-   24  git remote -v
-   25  git credential reject
-   26  nano ~/.git-credentials
-   27  git remote -v
-   28  git remote -
-   29  git remote set-url --delete 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@github.com/kapil098-code/github-for-devops-workspace.git
-   30  git remote set-url --delete kapil098-code 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@github.com
-   31  git rmote set-url --delete  https://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@github.com/kapil098-code/github-for-devops-workspace.git
-   32  git remote set-url --delete  https://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@github.com/kapil098-code/github-for-devops-workspace.git
-   33  git remote -b
-   34  git remote -v
-   35  git remote remove origin
-   36  git remote -v
-   37  clear
-   38  git remote add origin https://github.com/kapil098-code/github-for-devops-workspace.git
-   39  git remote -v
-   40  git remote set-url origin https://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@github.com/kapil098-code/github-for-devops-workspace.git
-   41  clear
-   42  git remote-v
-   43  clear
-   44  git remote -v
-   45  git push origin master
-
+git push origin master 
+git remote -v
+git action 
+git lm 
+git y
