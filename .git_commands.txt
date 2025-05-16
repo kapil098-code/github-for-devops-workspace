@@ -37,3 +37,8 @@ git remote -v
 git action 
 git lm 
 git y
+
+
+
+this is the some new changes
+i wiil like to learn new things
