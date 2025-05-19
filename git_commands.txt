@@ -45,33 +45,17 @@ i wiil like to learn new things
 
 
 
-git remote add origin https://github.com/kapil098-code/github-for-devops-workspace.git
     2  git remote -v
     3  git remote set-url https//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@github.com/kapil098-code/github-for-devops-workspace.git
     4  clear
     5  git romeote -v
     6  git remote -v
-    7  git remote  set-url origin https://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@github.com/kapil098-code/github-for-devops-workspace.git
-    8  git remote -v
+    
     9  git push origin master
-   10  git remote set-url origin https://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@github.com/kapil098-code/github-for-devops-workspace.git
-   11  git push origin master
-   12  git remote add origin https://github.com/kapil098-code/github-for-devops-workspace.git
-   13  clear
-   14  git push origin master
-   15  clear
-   16  git remote add origin https://github.com/kapil098-code/github-for-devops-workspace.git
-   17  git remote -v
-   18  git push origin master
-   19  clear
-   20  history
-   21  histor -c
-   22  clear
-   23  git add .
+ 
    24  git commit -m " the new commands"
    25  git push origin master
    26  git status
-   27  git show e404c7b0efc1ab070213183582b78613c381ef2b
    28  clear
    29  git push origin master
    30  git push origin master --force
@@ -97,100 +81,7 @@ git remote add origin https://github.com/kapil098-code/github-for-devops-workspa
    50  git push origin master
    51  Enumerating objects: 5, done.
    52  Counting objects: 100% (5/5), done.
-   53  Delta compression using up to 8 threads
-   54  Compressing objects: 100% (3/3), done.
-   55  Writing objects: 100% (3/3), 894 bytes | 894.00 KiB/s, done.
-   56  Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-   57  remote: error: GH013: Repository rule violations found for refs/heads/master.
-   58  remote: 
-   59  remote: - GITHUB PUSH PROTECTION
-   60  remote:   —————————————————————————————————————————
-   61  remote:     Resolve the following violations before pushing again
-   62  remote: 
-   63  remote:     - Push cannot contain secrets
-   64  remote: 
-   65  remote:     
-   66  remote:      (?) Learn how to resolve a blocked push
-   67  remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push
-   68  remote:     
-   69  remote:       —— GitHub Personal Access Token ——————————————————————
-   70  remote:        locations:
-   71  remote:          - commit: e404c7b0efc1ab070213183582b78613c381ef2b
-   72  remote:            path: .git_commands.txt:37
-   73  remote:          - commit: e404c7b0efc1ab070213183582b78613c381ef2b
-   74  remote:            path: .git_commands.txt:41
-   75  remote:          - commit: e404c7b0efc1ab070213183582b78613c381ef2b
-   76  remote:            path: .git_commands.txt:44
-   77  remote:          - commit: e404c7b0efc1ab070213183582b78613c381ef2b
-   78  remote:            path: .git_commands.txt:63
-   79  remote:          - commit: e404c7b0efc1ab070213183582b78613c381ef2b
-   80  remote:            path: .git_commands.txt:64
-   81  remote:     
-   82  remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.
-   83  remote:        https://github.com/kapil098-code/github-for-devops-workspace/security/secret-scanning/unblock-secret/2xBVlxtYtUyQ7kIDbV2vMdeLe8V
-   84  remote:     
-   85  remote:       —— GitHub Personal Access Token ——————————————————————
-   86  remote:        locations:
-   87  remote:          - commit: e404c7b0efc1ab070213183582b78613c381ef2b
-   88  remote:            path: .git_commands.txt:74
-   89  remote:     
-   90  remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.
-   91  remote:        https://github.com/kapil098-code/github-for-devops-
-   92  clear
-   93  git reset --soft HEAD~1
-   94  git restore --source=HEAD --staged .git_commands.txt
-   95  git add .
-   96  git commit -m "Removed secrets from .git_commands.txt"
-   97  git push origin master
-   98  clear
-   99  git add .
-  100  git commit  -m "new commands'
-  101  exit
-  102  ls
-  103  kld
-  104  clr
-  105  mkr
-  106  wq
-  107  exit
-  108  |jdkljflj
-  109  exot
-  110  git add .
-  111  git commit -m "new commands"
-  112  git status
-  113  git push origin master
-  114  git pull
-  115  clear
-  116  git push origin master
-  117  clear
-  118  git show-ref
-  119  git push origin master
-  120  clear
-  121  git fetch origin master:tmp
-  122  git rebase tmp
-  123  git push origin HEAD:master
-  124  git push origin master
-  125  git pull origin master
-  126  clear
-  127  git branch
-  128  git branch main
-  129  git branch
-  130  sudo apt install 4a6cd2cb-8741-5257-9d1f-89a275dacca7
-  131  git switch tmp
-  132  git bracnh -d tmp
-  133  git branch -D tmp
-  134  exit
-  135  git branch
-  136  exit tmp
-  137  clear
-  138  git lof
-  139  clear
-  140  git log
-  141  clear
-  142  git log --oneline
-  143  git switch main
-  144  ls
-  145  clear
-  146  git log --oneline
+   
   147  clear
   148  git status
   149  git branch -m dev
@@ -239,15 +130,6 @@ git remote add origin https://github.com/kapil098-code/github-for-devops-workspa
   192  git remote v
   193  clear
   194  git remote -v
-  195  git remote set-url origin https://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.com/kapil098-code/github-for-devops-workspace.git
-  196  git remote -v
-  197  git push origin dev
-  198  git add .
-  199  git commit -m "this is the new changes"
-  200  clear
-  201  git push origin dev
-  202  git clene https://github.com/kapil098-code/github-for-devops-workspace.git
-  203  git clone https://github.com/kapil098-code/github-for-devops-workspace.git
   204  git push oringin dev
   205  git push origin dev
   206  clear
@@ -272,8 +154,7 @@ git remote add origin https://github.com/kapil098-code/github-for-devops-workspa
   225  git push origin devexit
   226  git push origin deb
   227  git push origin dev
-  228  git remote set-url origin https://github.com/kapil098-code/github-for-devops-workspace.git
-  229  git push origin devb
+  228  git  git push origin devb
   230  clear
   231  git push origin dev
   232  git branch master
