@@ -45,19 +45,7 @@ i wiil like to learn new things
 
 
 
-    2  git remote -v
-    3  git remote set-url https//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@github.com/kapil098-code/github-for-devops-workspace.git
-    4  clear
-    5  git romeote -v
-    6  git remote -v
-    
-    9  git push origin master
- 
-   24  git commit -m " the new commands"
-   25  git push origin master
-   26  git status
-   28  clear
-   29  git push origin master
+
    30  git push origin master --force
    31  sudo apt install preload
    32  clear 
